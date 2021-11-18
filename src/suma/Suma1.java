@@ -16,7 +16,7 @@ public class Suma1 extends javax.swing.JFrame {
      */
     public Suma1() {
         initComponents();
-        
+        //
     }
 
     /**
